@@ -1,0 +1,7 @@
+ul.errorlist {
+    display: none;
+}
+
+input[type=text] {
+    margin-bottom:48px
+}
